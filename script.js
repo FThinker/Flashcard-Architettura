@@ -24,10 +24,6 @@ function mostraFlashcardCasuale() {
     document.getElementById('flashcard-image').src = edificio.immagine;
     document.getElementById('flashcard-image').alt = edificio.nome;
     document.getElementById('flashcard-name').textContent = edificio.nome;
-    document.getElementById('flashcard-author').textContent = "Autore: " + edificio.autore;
-    document.getElementById('flashcard-location').textContent = "Luogo: " + edificio.luogo;
-    document.getElementById('flashcard-period').textContent = "Periodo: " + edificio.periodo;
-    document.getElementById('flashcard-style').textContent = "Stile: " + edificio.stile;
 
     const flashcard = document.getElementById('flashcard');
     flashcard.classList.remove('flip');
