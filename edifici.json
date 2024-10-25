@@ -1,18 +1,476 @@
 [
     {
-        "nome": "Tour Eiffel",
-        "immagine": "immagini/TourEiffel.jpg",
-        "autore": "Gustav Eiffel",
-        "luogo": "Francia, Parigi",
-        "periodo": "1800",
-        "stile": "cazzo ne so io scusi"
+        "nome": "Pantheon, epoca romana",
+         "immagine": "immagini/Pantheon1.png"
     },
     {
-        "nome": "Pantheon",
-        "immagine": "immagini/Pantheon.jpg",
-        "autore": "Ah boh",
-        "luogo": "Italia, Roma",
-        "periodo": "ottima domanda",
-        "stile": "romano...?"
+        "nome": "Chiesa Val de Grace, François Mansart, Parigi, 1644-45",
+        "immagine": "immagini/val-de-grace1.png"
+      
+    },
+    {
+        "nome": "Chiesa Val de Grace, François Mansart, Parigi, 1644-45",
+        "immagine": "immagini/val-de-grace2.png"
+      
+    },
+    {
+        "nome": "Palazzo Jacopo da Brescia, Raffaello, Roma, 1500 c.a. (rinascimentale)",
+        "immagine": "immagini/palazzo-jacopo-da-brescia1.jpeg"
+      
+    },
+    {
+        "nome": "Palazzo Jacopo da Brescia, Raffaello, Roma, 1500 c.a. (rinascimentale)",
+        "immagine": "immagini/palazzo-jacopo-da-brescia2.jpeg"
+      
+    },
+    {
+        "nome": "Palazzo Jacopo da Brescia, Raffaello, Roma, 1500 c.a. (rinascimentale)",
+        "immagine": "immagini/palazzo-jacopo-da-brescia2.jpeg"
+      
+    },
+    {
+        "nome": "San Pietro, Roma, 1500-1600",
+        "immagine": "immagini/san-pietro1.png"
+     
+    },
+    {
+        "nome": "San Pietro, Roma, 1500-1600",
+        "immagine": "immagini/san-pietro2.jpeg"
+     
+    },
+    {
+        "nome": "San Pietro, Roma, 1500-1600",
+        "immagine": "immagini/san-pietro3.png"
+     
+    },
+    {
+        "nome": "Ville di Palladio, Palladio, Veneto, metà 1500",
+        "immagine": "immagini/ville-di-palladio1.jpeg"
+     
+    },
+    {
+        "nome": "Ville di Palladio, Palladio, Veneto, metà 1500",
+        "immagine": "immagini/ville-di-palladio2.png"
+     
+    },
+    {
+        "nome": "Prato della Valle, Domenico Lebato e Andrea Memmo, Padova, 1775",
+        "immagine": "immagini/prato-della-valle1.jpeg"
+     
+    },
+    {
+        "nome": "Prato della Valle, Domenico Lebato e Andrea Memmo, Padova, 1775",
+        "immagine": "immagini/prato-della-valle2.png"
+     
+    },
+    {
+        "nome": "Prato della Valle, Domenico Lebato e Andrea Memmo, Padova, 1775",
+        "immagine": "immagini/prato-della-valle3.png"
+     
+    },
+    {
+        "nome": "Prato della Valle, Domenico Lebato e Andrea Memmo, Padova, 1775",
+        "immagine": "immagini/prato-della-valle3.png"
+     
+    },
+    {
+        "nome": "Carcere minorile di San Michele a Ripa, Carlo Fontana, Roma, 1701-1703",
+        "immagine": "immagini/san-michele-ripa1.jpeg"
+     
+    },
+    {
+        "nome": "Filippo Raguzzini, Ospedale San Gallicano, Roma, 1725",
+        "immagine": "immagini/ospedale-san-gallicano1.jpeg"
+     
+    },
+    {
+        "nome": "Francesco de Santis, Scalinata di Trinità dei Monti, Roma, 1723-1726",
+        "immagine": "immagini/trinita-dei-monti1.jpeg"
+     
+    },
+    {
+        "nome": "Alessandro Specchi, porto di Ripetta, 1703-1705",
+        "immagine": "immagini/porto-di-ripetta1.png"
+     
+    },
+    {
+        "nome": "Alessandro Specchi, porto di Ripetta, 1703-1705",
+        "immagine": "immagini/porto-di-ripetta2.jpeg"
+     
+    },
+    {
+        "nome": "Filippo Raguzzini, piazza Sant'Ignazio, Roma, 1727",
+        "immagine": "immagini/piazza-sant-ignazio1.jpeg"
+     
+    },
+    {
+        "nome": "Filippo Raguzzini, piazza Sant'Ignazio, Roma, 1727",
+        "immagine": "immagini/piazza-sant-ignazio2.png"
+     
+    },
+    {
+        "nome": "Filippo Raguzzini, piazza Sant'Ignazio, Roma, 1727",
+        "immagine": "immagini/piazza-sant-ignazio3.jpeg"
+     
+    },
+    {
+        "nome": "Filippo Raguzzini, piazza Sant'Ignazio, Roma, 1727",
+        "immagine": "immagini/piazza-sant-ignazio4.jpeg"
+     
+    },
+    {
+        "nome": "Facciata di San Giovanni in Laterano, Alessandro Galilei, concorso del 1732",
+        "immagine": "immagini/san-giovanni-laterano1.jpeg"
+     
+    },
+    {
+        "nome": "Ferdinando Fuga, facciata di S.M. Maggiore, 1741",
+        "immagine": "immagini/s-m-maggiore1.png"
+     
+    },
+    {
+        "nome": "Nicola Salvi, Fontana di Trevi, 1732-1751",
+        "immagine": "immagini/fontana-di-trevi1.jpeg"
+     
+    },
+    {
+        "nome": "Giovan Battista Nolli, 1748, Nuova pianta di Roma",
+        "immagine": "immagini/nuova-pianta-di-roma1.png"
+     
+    },
+    {
+        "nome": "Veduta Arco di Tito, Piranesi",
+        "immagine": "immagini/arco-di-tito1.jpeg"
+     
+    },
+    {
+        "nome": "Veduta Porto di Ripesta, Piranesi",
+        "immagine": "immagini/porto-di-ripesta1.jpeg"
+     
+    },
+    {
+        "nome": "Piranesi, 1764-67, Santa Maria del Priorato e piazza dei Cavalieri di Malta (Aventino)",
+        "immagine": "immagini/priorato-cavalieri-malta1.jpeg"
+     
+    },
+    {
+        "nome": "Piranesi, 1764-67, Santa Maria del Priorato e piazza dei Cavalieri di Malta (Aventino)",
+        "immagine": "immagini/priorato-cavalieri-malta2.jpeg"
+     
+    },
+    {
+        "nome": "Piranesi, 1764-67, Santa Maria del Priorato e piazza dei Cavalieri di Malta (Aventino)",
+        "immagine": "immagini/priorato-cavalieri-malta3.jpeg"
+     
+    },
+    {
+        "nome": "Piranesi, 1764-67, Santa Maria del Priorato e piazza dei Cavalieri di Malta (Aventino)",
+        "immagine": "immagini/priorato-cavalieri-malta4.jpeg"
+     
+    },
+    {
+        "nome": "Piranesi, 1764-67, Santa Maria del Priorato e piazza dei Cavalieri di Malta (Aventino)",
+        "immagine": "immagini/priorato-cavalieri-malta5.jpeg"
+     
+    },
+    {
+        "nome": "Torre di malta su capitello",
+        "immagine": "immagini/torre-malta-capitello.jpeg"
+     
+    },
+    {
+        "nome": "Soufflot, Sainte-Geneviève (poi Panthéon), 1757, Parigi",
+        "immagine": "immagini/saint-genevieve1.jpeg"
+     
+    },
+    {
+        "nome": "Soufflot, Sainte-Geneviève (poi Panthéon), 1757, Parigi",
+        "immagine": "immagini/saint-genevieve2.png"
+     
+    },
+    {
+        "nome": "Soufflot, Sainte-Geneviève (poi Panthéon), 1757, Parigi",
+        "immagine": "immagini/saint-genevieve3.jpeg"
+     
+    },
+    {
+        "nome": "Soufflot, Sainte-Geneviève (poi Panthéon), 1757, Parigi",
+        "immagine": "immagini/saint-genevieve4.jpeg"
+     
+    },
+    {
+        "nome": "Soufflot, Sainte-Geneviève (poi Panthéon), 1757, Parigi",
+        "immagine": "immagini/saint-genevieve5.jpeg"
+     
+    },
+    {
+        "nome": "Soufflot, Sainte-Geneviève (poi Panthéon), 1757, Parigi",
+        "immagine": "immagini/saint-genevieve6.jpeg"
+     
+    },
+    {
+        "nome": "Soufflot, 1750, Loge du Change (restauro e ampliamento), Lione",
+        "immagine": "immagini/loge-du-change1.png"
+     
+    },
+    {
+        "nome": "Soufflot, 1750, Loge du Change (restauro e ampliamento), Lione",
+        "immagine": "immagini/loge-du-change2.jpeg"
+     
+    },
+    {
+        "nome": "Soufflot, teatro di Lione, 1754",
+        "immagine": "immagini/teatro-di-lione1.png"
+     
+    },
+    {
+        "nome": "Soufflot, teatro di Lione, 1754",
+        "immagine": "immagini/teatro-di-lione2.png"
+     
+    },
+    {
+        "nome": "Soufflot, Hotel Dieu (ospedale), 1741",
+        "immagine": "immagini/hotel-dieu1.png"
+     
+    },
+    {
+        "nome": "Soufflot, Hotel Dieu (ospedale), 1741",
+        "immagine": "immagini/hotel-dieu2.jpeg"
+     
+    },
+    {
+        "nome": "Soufflot, Hotel Dieu (ospedale), 1741",
+        "immagine": "immagini/hotel-dieu3.jpeg"
+     
+    },
+    {
+        "nome": "Soufflot, Hotel Dieu (ospedale), 1741",
+        "immagine": "immagini/hotel-dieu4.jpeg"
+     
+    },
+    {
+        "nome": "Boullee, Cenotafio di Newton, 1784",
+        "immagine": "immagini/cenotafio-di-newton1.jpeg"
+     
+    },
+    {
+        "nome": "Ledoux, Ricovero per guardie forestali per il villaggio ideale nel parco di Maupertius, 1804",
+        "immagine": "immagini/parco-maupertius1.jpeg"
+     
+    },
+    {
+        "nome": "Ledoux, Progetto della città residenziale/industriale di Chaux, prog. 1771, realizzazione edifici 1775-1779",
+        "immagine": "immagini/chaux1.jpeg"
+     
+    },
+    {
+        "nome": "Ledoux, Progetto della città residenziale/industriale di Chaux, prog. 1771, realizzazione edifici 1775-1779 - residenza del direttore",
+        "immagine": "immagini/residenza-direttore-chaux1.jpeg"
+     
+    },
+    {
+        "nome": "Quarenghi, Chiesa di Santa scolastica, Subiaco, 1771-1777 (vedi santo redentore di Palladio)",
+        "immagine": "immagini/chiesa-santa-scolastica1.jpeg"
+     
+    },
+    {
+        "nome": "Quarenghi, Chiesa di Santa scolastica, Subiaco, 1771-1777 (vedi santo redentore di Palladio)",
+        "immagine": "immagini/chiesa-santa-scolastica2.jpeg"
+     
+    },
+    {
+        "nome": "Quarenghi, Chiesa di Santa scolastica, Subiaco, 1771-1777 (vedi santo redentore di Palladio)",
+        "immagine": "immagini/chiesa-santa-scolastica3.jpeg"
+     
+    },
+    {
+        "nome": "Andrea Palladio, Venezia, chiesa del Redentore, 1577",
+        "immagine": "immagini/chiesa-del-redentore1.png"
+     
+    },
+    {
+        "nome": "Andrea Palladio, Venezia, chiesa del Redentore, 1577",
+        "immagine": "immagini/chiesa-del-redentore1.jpeg"
+     
+    },
+    {
+        "nome": "Quarenghi, scuola di equitazione per la cavalleria, 1804-1807 (Istituto Smolny per l'istruzione femminile dal 1806) (ripresa palladio)",
+        "immagine": "immagini/scuola-equitazione-cavalleria1.jpeg"
+     
+    },
+    {
+        "nome": "Quarenghi, scuola di equitazione per la cavalleria, 1804-1807 (Istituto Smolny per l'istruzione femminile dal 1806) (ripresa palladio)",
+        "immagine": "immagini/scuola-equitazione-cavalleria2.jpeg"
+     
+    },
+    {
+        "nome": "Quarenghi, scuola di equitazione per la cavalleria, 1804-1807 (Istituto Smolny per l'istruzione femminile dal 1806) (ripresa palladio)",
+        "immagine": "immagini/scuola-equitazione-cavalleria3.jpeg"
+     
+    },
+    {
+        "nome": "Piermarini, teatro della scala di Milano",
+        "immagine": "immagini/scala-milano1.jpeg"
+     
+    },
+    {
+        "nome": "Piermarini, teatro della scala di Milano",
+        "immagine": "immagini/scala-milano2.png"
+     
+    },
+    {
+        "nome": "Piermarini, teatro della scala di Milano",
+        "immagine": "immagini/scala-milano3.jpeg"
+     
+    },
+    {
+        "nome": "Piermarini, Villa Ducale poi Reale a Monza, 1778 ca",
+        "immagine": "immagini/villa-ducale-monza1.jpeg"
+     
+    },
+    {
+        "nome": "Piermarini, Villa Ducale poi Reale a Monza, 1778 ca",
+        "immagine": "immagini/villa-ducale-monza2.jpeg"
+     
+    },
+    {
+        "nome": "Piermarini, Villa Ducale poi Reale a Monza, 1778 ca",
+        "immagine": "immagini/villa-ducale-monza3.jpeg"
+     
+    },
+    {
+        "nome": "Piermarini, Villa Ducale poi Reale a Monza, 1778 ca",
+        "immagine": "immagini/villa-ducale-monza4.jpeg"
+     
+    },
+    {
+        "nome": "Antolini, Milano, Foro Bonaparte, 1801 (riprende saline di Chaux di Ledoux)",
+        "immagine": "immagini/foro-bonaparte1.jpeg"
+     
+    },
+    {
+        "nome": "Antolini, Milano, Foro Bonaparte, 1801 (riprende saline di Chaux di Ledoux)",
+        "immagine": "immagini/foro-bonaparte2.png"
+     
+    },
+    {
+        "nome": "Antolini, 1798, progetto per 12 piramidi da erigersi nel cimitero di Milano",
+        "immagine": "immagini/piramidi-milano1.jpeg"
+     
+    },
+    {
+        "nome": "Antolini, 1798, progetto per 12 piramidi da erigersi nel cimitero di Milano",
+        "immagine": "immagini/piramidi-milano2.jpeg"
+     
+    },
+    {
+        "nome": "Selva, teatro della fenice, Venezia, 1788-179",
+        "immagine": "immagini/fenice-venezia1.jpeg"
+     
+    },
+    {
+        "nome": "Selva, teatro della fenice, Venezia, 1788-179",
+        "immagine": "immagini/fenice-venezia2.jpeg"
+     
+    },
+    {
+        "nome": "Selva, Monumento per il passaggio di Napoleone Bonaparte al Moncenisio, prog. 1809",
+        "immagine": "immagini/napoleone-moncenisio1.jpeg"
+     
+    },
+    {
+        "nome": "Poccianti, acquedotto di cognole, 'cisternino', Livorno",
+        "immagine": "immagini/cisternino1.jpeg"
+     
+    },
+    {
+        "nome": "Poccianti, acquedotto di cognole, 'cisternone', Livorno",
+        "immagine": "immagini/cisternone1.jpeg"
+     
+    },
+    {
+        "nome": "Antonio Niccolini Teatro San Carlo, 1810-1817, Napoli",
+        "immagine": "immagini/san-carlo1.jpeg"
+     
+    },
+    {
+        "nome": "Antonio Niccolini Teatro San Carlo, 1810-1817, Napoli",
+        "immagine": "immagini/san-carlo2.jpeg"
+     
+    },
+    {
+        "nome": "Antonio Niccolini Teatro San Carlo, 1810-1817, Napoli",
+        "immagine": "immagini/san-carlo3.png"
+     
+    },
+    {
+        "nome": "Bianchi, San Francesco di Paola in piazza Plebiscito (dopo il 1816), Napoli",
+        "immagine": "immagini/san-francesco-paola1.jpeg"
+     
+    },
+    {
+        "nome": "Bianchi, San Francesco di Paola in piazza Plebiscito (dopo il 1816), Napoli",
+        "immagine": "immagini/san-francesco-paola2.jpeg"
+     
+    },
+    {
+        "nome": "Bianchi, San Francesco di Paola in piazza Plebiscito (dopo il 1816), Napoli",
+        "immagine": "immagini/san-francesco-paola3.png"
+     
+    },
+    {
+        "nome": "Canina, Topografia di Roma Antica, 1832",
+        "immagine": "immagini/roma-antica1.jpeg"
+     
+    },
+    {
+        "nome": "Canina, Propilei Villa Borghese, dal 1825",
+        "immagine": "immagini/propilei-villa-borghese1.png"
+     
+    },
+    {
+        "nome": "Canina, Valla Borghese, dal 1825",
+        "immagine": "immagini/valla-borghese1.jpeg"
+     
+    },
+    {
+        "nome": "Canina, arco di Settimio severo a villa borghese",
+        "immagine": "immagini/arco-settimo-severio1.png"
+     
+    },
+    {
+        "nome": "Asprucci, Tempio di Esculapio, villa Borghese",
+        "immagine": "immagini/tempio-esculapio1.jpeg"
+     
+    },
+    {
+        "nome": "Valadier, piazza del popolo, vari progetti da 1812",
+        "immagine": "immagini/piazza-del-popolo1.jpeg"
+     
+    },
+    {
+        "nome": "Valadier, piazza del popolo, vari progetti da 1812",
+        "immagine": "immagini/piazza-del-popolo2.png"
+     
+    },
+    {
+        "nome": "Valadier, piazza del popolo, vari progetti da 1812",
+        "immagine": "immagini/piazza-del-popolo3.jpeg"
+     
+    },
+    {
+        "nome": "Valadier, Facciata chiesa di San Rocco, Roma 1833 (riprende palladio s. Giorgio a Venezia)",
+        "immagine": "immagini/san-rocco1.jpeg"
+     
+    },
+    {
+        "nome": "Valadier, Facciata chiesa di San Rocco, Roma 1833 (riprende palladio s. Giorgio a Venezia)",
+        "immagine": "immagini/san-rocco2.jpeg"
+     
+    },
+    {
+        "nome": "Valadier, Facciata di San Pantaleo Roma, 1806",
+        "immagine": "immagini/san-pantaleo1.jpeg"
+     
     }
 ]
