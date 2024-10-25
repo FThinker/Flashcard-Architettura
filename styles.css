@@ -1,0 +1,120 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #121212;
+    color: #e0e0e0;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.flashcard {
+    width: 300px; /* Aumenta la larghezza */
+    height: 450px; /* Aumenta l’altezza */
+    perspective: 1000px;
+    cursor: pointer;
+}
+
+.flashcard div {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    backface-visibility: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px; /* Bordo arrotondato */
+    flex-direction: column;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); /* Ombra morbida */
+    transition: transform 0.6s;
+}
+
+.flashcard .front {
+    background-color: #2a2a2a; /* Colore scuro ma non troppo */
+    overflow: hidden;
+}
+
+.flashcard .back {
+    background-color: #333;
+    color: #e0e0e0;
+    transform: rotateY(180deg);
+    display: flex;
+    flex-direction: column;
+    gap: 10px; /* Spazio tra i dettagli */
+}
+
+.flashcard.flip .front {
+    transform: rotateY(180deg);
+}
+
+.flashcard.flip .back {
+    transform: rotateY(360deg);
+}
+
+/* Stile immagine della flashcard */
+img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Mantiene l’immagine a pieno schermo con effetto di copertura */
+    border-radius: 10px 10px 0 0; /* Bordo leggermente arrotondato per armonizzare con la flashcard */
+}
+
+
+
+/* Stile del testo sul retro della flashcard */
+#flashcard-name {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+#flashcard-author,
+#flashcard-location,
+#flashcard-period,
+#flashcard-style {
+    font-size: 1em;
+    line-height: 1.4;
+}
+
+/* Stile bottone Prossima */
+#next-btn {
+    display: none;
+    padding: 12px 24px;
+    font-size: 18px;
+    background-color: #007acc;
+    color: #e0e0e0;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+    margin-top: 15px;
+}
+
+#next-btn:hover {
+    background-color: #005fa3;
+    transform: scale(1.05);
+}
+
+/* Stile per la scritta in basso a sinistra */
+.footer-text {
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+    font-size: 20px;
+    color: #555; /* Colore grigio tenue per un aspetto discreto */
+    opacity: 0.8;
+}

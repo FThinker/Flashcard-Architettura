@@ -1,0 +1,18 @@
+[
+    {
+        "nome": "Tour Eiffel",
+        "immagine": "immagini/TourEiffel.jpg",
+        "autore": "Gustav Eiffel",
+        "luogo": "Francia, Parigi",
+        "periodo": "1800",
+        "stile": "cazzo ne so io scusi"
+    },
+    {
+        "nome": "Pantheon",
+        "immagine": "immagini/Pantheon.jpg",
+        "autore": "Ah boh",
+        "luogo": "Italia, Roma",
+        "periodo": "ottima domanda",
+        "stile": "romano...?"
+    }
+]
