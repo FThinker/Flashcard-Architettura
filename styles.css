@@ -5,19 +5,22 @@
 body {
     font-family: Arial, sans-serif;
     display: flex;
-    justify-content: center;
+    flex-direction: column;
     align-items: center;
-    height: 100vh;
+    justify-content: center;
+    min-height: 100vh;
     margin: 0;
     background-color: #121212;
     color: #e0e0e0;
 }
 
+/* Contenitore per le flashcard */
 .container {
     display: flex;
     flex-direction: column;
     align-items: center;
     gap: 20px;
+    margin-top: 20px;
 }
 
 .flashcard {
@@ -119,9 +122,10 @@ img {
     opacity: 0.8;
 }
 
+/* Stile per i bottoni del selettore di modulo */
 .module-selector {
     display: flex;
-    justify-content: center; /* Centra i bottoni orizzontalmente */
+    justify-content: center;
     margin-bottom: 20px; /* Spazio tra i bottoni e le flashcard */
     gap: 10px;
 }
@@ -140,3 +144,4 @@ img {
 .module-selector button:hover {
     background-color: #005fa3;
 }
+
