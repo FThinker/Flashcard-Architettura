@@ -1,8 +1,7 @@
-let allFlashcards = [];       // Array con tutte le flashcard del modulo corrente
-let availableFlashcards = []; // Array temporaneo per le carte non ancora visualizzate
-let currentFlashcardIndex = -1; // Indice della flashcard corrente
+let allFlashcards = [];       // Array per le flashcard di un modulo selezionato
+let availableFlashcards = []; // Flashcard ancora da visualizzare nel modulo selezionato
 
-// Funzione per selezionare il modulo (carica il file JSON corretto)
+// Funzione per selezionare il modulo
 function selectModule(module) {
     const jsonFile = module === 'modulo2' ? 'edifici-modulo2.json' : 'edifici.json';
     loadFlashcards(jsonFile);
@@ -13,27 +12,27 @@ function loadFlashcards(jsonFile) {
     fetch(jsonFile)
         .then(response => response.json())
         .then(data => {
-            allFlashcards = data; // Salva tutte le flashcard originali
+            allFlashcards = data; // Aggiorna l'array con le flashcard del modulo selezionato
             resetAvailableFlashcards(); // Inizializza le carte disponibili per il ciclo attuale
-            showNextFlashcard(); // Mostra la prima flashcard
+            showNextFlashcard(); // Mostra la prima flashcard del modulo selezionato
         })
         .catch(error => console.error('Errore nel caricamento delle flashcard:', error));
 }
 
-// Funzione per inizializzare l'array delle carte disponibili
+// Funzione per riempire l'array delle carte disponibili
 function resetAvailableFlashcards() {
-    availableFlashcards = [...allFlashcards]; // Copia di allFlashcards per il ciclo corrente
+    availableFlashcards = [...allFlashcards]; // Crea una copia di allFlashcards
 }
 
 // Funzione per mostrare una nuova flashcard
 function showNextFlashcard() {
     if (availableFlashcards.length === 0) {
-        resetAvailableFlashcards();
+        resetAvailableFlashcards(); // Ricarica le carte del modulo se tutte sono state visualizzate
     }
 
     const randomIndex = Math.floor(Math.random() * availableFlashcards.length);
     const flashcard = availableFlashcards[randomIndex];
-    availableFlashcards.splice(randomIndex, 1);
+    availableFlashcards.splice(randomIndex, 1); // Rimuove la carta mostrata
 
     displayFlashcard(flashcard);
 }
@@ -66,5 +65,5 @@ function nextFlashcard() {
     showNextFlashcard();
 }
 
-// Carica il modulo 1 all'avvio della pagina
+// Avvia con il modulo 1 di default quando la pagina è pronta
 document.addEventListener('DOMContentLoaded', () => selectModule('modulo1'));

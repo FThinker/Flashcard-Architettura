@@ -7,6 +7,12 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+     <!-- Bottoni per selezionare il modulo -->
+     <div class="module-selector">
+        <button onclick="selectModule('modulo1')">Modulo 1</button>
+        <button onclick="selectModule('modulo2')">Modulo 2</button>
+    </div>
+
     <div class="container">
         <!-- Contenitore per una sola flashcard -->
         <div class="flashcard" id="flashcard" onclick="flipCard()">
@@ -19,12 +25,6 @@
         </div>
         <!-- Bottone per passare alla prossima card, visibile solo dopo il "flip" -->
         <button id="next-btn" onclick="nextFlashcard()">Prossima</button>
-    </div>
-
-    <!-- Bottoni per selezionare il modulo -->
-    <div class="module-selector">
-        <button onclick="selectModule('modulo1')">Modulo 1</button>
-        <button onclick="selectModule('modulo2')">Modulo 2</button>
     </div>
 
     <p class="footer-text">fusillo best girl</p>
