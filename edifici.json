@@ -472,5 +472,26 @@
         "nome": "Valadier, Facciata di San Pantaleo Roma, 1806",
         "immagine": "immagini/san-pantaleo1.jpeg"
      
+    },
+    {
+        "nome": "Valadier, Facciata di San Pantaleo Roma, 1806",
+        "immagine": "immagini/san-pantaleo2.png"
+     
+    },
+    {
+        "nome": "Valadier, Facciata di San Pantaleo Roma, 1806",
+        "immagine": "immagini/san-pantaleo3.png"
+     
+    },
+    {
+        "nome": "Arco di Tito, restaurato da Valadier",
+        "immagine": "immagini/arco-di-tito1.png"
+     
+    },
+    {
+        "nome": "Ponte Milvio, restaurato da Valadier",
+        "immagine": "immagini/ponte-milvio1.png"
+     
     }
+    
 ]
