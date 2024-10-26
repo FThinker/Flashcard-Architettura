@@ -492,6 +492,195 @@
         "nome": "Ponte Milvio, restaurato da Valadier",
         "immagine": "immagini/ponte-milvio1.png"
      
+    },
+    {
+        "nome": "Ponte Milvio, restaurato da Valadier",
+        "immagine": "immagini/ponte-milvio2.png"
+     
+    },
+    {
+        "nome": "Horace Walpole, villa di Strawberry Hill, Londra, 1750-70 (gotici revival)",
+        "immagine": "immagini/strawberry-hill1.png"
+     
+    },
+    {
+        "nome": "Horace Walpole, villa di Strawberry Hill, Londra, 1750-70 (gotici revival)",
+        "immagine": "immagini/strawberry-hill2.png"
+     
+    },
+    {
+        "nome": "Horace Walpole, villa di Strawberry Hill, Londra, 1750-70 (gotici revival)",
+        "immagine": "immagini/strawberry-hill3.png"
+     
+    },
+    {
+        "nome": "Pugin, Apology for the Present Revival of Christian Architecture in England, 1843",
+        "immagine": "immagini/apology-present-revival1.png"
+     
+    },
+    {
+        "nome": "Charles Barry, 1840-65, palazzo del parlamento, Pugin per gli ornamenti (concorso 1835) (gotici revival)",
+        "immagine": "immagini/palazzo-del-parlamento1.png"
+     
+    },
+    {
+        "nome": "Charles Barry, 1840-65, palazzo del parlamento, Pugin per gli ornamenti (concorso 1835) (gotici revival)",
+        "immagine": "immagini/palazzo-del-parlamento2.png"
+     
+    },
+    {
+        "nome": "Vilollet-le-Duc, Saint-Denis-de-l’Estrée a Saint-Denis, 1864-67 (gotici revival)",
+        "immagine": "immagini/saint-denis1.png"
+     
+    },
+    {
+        "nome": "Vilollet-le-Duc, Saint-Denis-de-l’Estrée a Saint-Denis, 1864-67 (gotici revival)",
+        "immagine": "immagini/saint-denis2.png"
+     
+    },
+    {
+        "nome": "Emilio de Fabris 1865, Firenze, concorso facciata Santa Maria del Fiore",
+        "immagine": "immagini/santa-maria-del-fiore1.png"
+     
+    },
+    {
+        "nome": "Emilio de Fabris 1865, Firenze, concorso facciata Santa Maria del Fiore",
+        "immagine": "immagini/santa-maria-del-fiore2.png"
+     
+    },
+    {
+        "nome": "San Marino, palazzo del Governo, 1894, Francesco Azzurri",
+        "immagine": "immagini/palazzo-del-governo1.png"
+     
+    },
+    {
+        "nome": "San Marino, palazzo del Governo, 1894, Francesco Azzurri",
+        "immagine": "immagini/palazzo-del-governo2.png"
+     
+    },
+    {
+        "nome": "Camillo Boito, Ospedale di Gallarate, 1871 ",
+        "immagine": "immagini/ospedale-di-gallarate1.png"
+     
+    },
+    {
+        "nome": "Henry Holland, John Nash, padiglioni reali di Brighton, Residenza estiva di Giorgio IV (orientassimo)",
+        "immagine": "immagini/padiglioni-reali-brighton1.png"
+     
+    },
+    {
+        "nome": "Henry Holland, John Nash, padiglioni reali di Brighton, Residenza estiva di Giorgio IV (orientassimo)",
+        "immagine": "immagini/padiglioni-reali-brighton2.png"
+     
+    },
+    {
+        "nome": "Henry Holland, John Nash, padiglioni reali di Brighton, Residenza estiva di Giorgio IV (orientassimo)",
+        "immagine": "immagini/padiglioni-reali-brighton3.png"
+     
+    },
+    {
+        "nome": "Ludwig Wilhelm von Zanth, Wilhelma, Stoccarda (dal 1843), Residenza estiva del re Wilhelm I von Wurtemberg (orientassimo)",
+        "immagine": "immagini/wilhelma1.png"
+     
+    },
+    {
+        "nome": "Ludwig Wilhelm von Zanth, Wilhelma, Stoccarda (dal 1843), Residenza estiva del re Wilhelm I von Wurtemberg (orientassimo)",
+        "immagine": "immagini/wilhelma2.png"
+     
+    },
+    {
+        "nome": "Martin Hammitzsch, Fabbrica di tabacco Yenidze, Dresda - 1907-1909 (orientassimo)",
+        "immagine": "immagini/fabrica-tabacco1.png"
+     
+    },
+    {
+        "nome": "Jappellli, Caffè Pedrocchi, Padova, inaugurato nel 1831 (eclettismo)",
+        "immagine": "immagini/caffe-pedrocchi1.png"
+     
+    },
+    {
+        "nome": "Jappellli, Caffè Pedrocchi, Padova, inaugurato nel 1831 (eclettismo)",
+        "immagine": "immagini/caffe-pedrocchi2.png"
+     
+    },
+    {
+        "nome": "Jappelli, ampliamento villa di torliona, Roma (eclettismo) ",
+        "immagine": "immagini/ampliamento-villa-torliona1.png"
+     
+    },
+    {
+        "nome": "Jappelli, ampliamento villa di torliona, Roma (eclettismo) ",
+        "immagine": "immagini/ampliamento-villa-torliona2.png"
+     
+    },
+    {
+        "nome": "Jappelli, capanna svizzera poi casina delle civette (eclettismo)",
+        "immagine": "immagini/capanna-svizzera1.png"
+     
+    },
+    {
+        "nome": "Jappelli, serra moresca (eclettismo)",
+        "immagine": "immagini/serra-moresca1.png"
+     
+    },
+    {
+        "nome": "Garnier, 1861, concorso Opéra de Paris (eclettismo)",
+        "immagine": "immagini/concorso-opera-paris1.png"
+     
+    },
+    {
+        "nome": "Garnier, 1861, concorso Opéra de Paris (eclettismo)",
+        "immagine": "immagini/concorso-opera-paris2.png"
+     
+    },
+    {
+        "nome": "Garnier, Grand Equatorial,Nizza, Osservatorio del Mont-Gros, 1881-1888 (eclettismo)",
+        "immagine": "immagini/osservatorio-mont-gros1.png"
+     
+    },
+    {
+        "nome": "Garnier, Sainte-Grimonie a La Capelle-en-Thiérache, 1883-1887 (eclettismo)",
+        "immagine": "immagini/sainte-grimonie1.png"
+     
+    },
+    {
+        "nome": "Shinkel, casa della Guardia, 1818, Berlino (neogreco) ",
+        "immagine": "immagini/casa-della-guardia1.png"
+     
+    },
+    {
+        "nome": "Shinkel, schauspielhaus, casa da concerto, Berlino (neogreco)",
+        "immagine": "immagini/casa-da-concerto1.png"
+     
+    },
+    {
+        "nome": "Shinkel, schauspielhaus, casa da concerto, Berlino (neogreco)",
+        "immagine": "immagini/casa-da-concerto2.png"
+     
+    },
+    {
+        "nome": "Shinkel, schauspielhaus, casa da concerto, Berlino (neogreco)",
+        "immagine": "immagini/casa-da-concerto3.png"
+     
+    },
+    {
+        "nome": "Shinkel, altes museum, Berlino, 1823-183",
+        "immagine": "immagini/altes-museum1.png"
+     
+    },
+    {
+        "nome": "Shinkel, altes museum, Berlino, 1823-183",
+        "immagine": "immagini/altes-museum2.png"
+     
+    },
+    {
+        "nome": "Shinkel, altes museum, Berlino, 1823-183",
+        "immagine": "immagini/altes-museum3.png"
+     
+    },
+    {
+        "nome": "Shinkel, altes museum, Berlino, 1823-183",
+        "immagine": "immagini/altes-museum4.png"
+     
     }
-    
 ]
