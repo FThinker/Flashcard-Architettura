@@ -1,1 +1,1 @@
-Lorem Ipsum
+Una web-app per memorizzare nomi ed autori di opere architettoniche tramite flashcards.
