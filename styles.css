@@ -118,3 +118,24 @@ img {
     color: #555; /* Colore grigio tenue per un aspetto discreto */
     opacity: 0.8;
 }
+
+.module-selector {
+    margin-top: 20px;
+    display: flex;
+    gap: 10px;
+}
+
+.module-selector button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007acc;
+    color: #e0e0e0;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.module-selector button:hover {
+    background-color: #005fa3;
+}
