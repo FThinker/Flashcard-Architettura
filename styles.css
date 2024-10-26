@@ -120,8 +120,9 @@ img {
 }
 
 .module-selector {
-    margin-top: 20px;
     display: flex;
+    justify-content: center; /* Centra i bottoni orizzontalmente */
+    margin-bottom: 20px; /* Spazio tra i bottoni e le flashcard */
     gap: 10px;
 }
 
